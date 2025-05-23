@@ -4,6 +4,10 @@
 
 Adiciona elementos ao final do array
 
-## Método pop
+## Método Pop
 
 Remove o último elemento do array
+
+## Método Shift 
+
+Remove o primeiro elemento do array 
